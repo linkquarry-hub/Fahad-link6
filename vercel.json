@@ -4,17 +4,15 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/tufail", "dest": "/tufail.js" },
-        { "src": "/tufailpass", "dest": "/tufailpass.js" },
-    { "src": "/babar", "dest": "/babar.js" },
-{ "src": "/babarpass", "dest": "/babarpass.js" },
-    { "src": "/rawal", "dest": "/rawal.js" },
-    { "src": "/rawalpass", "dest": "/rawalpass.js" },
-    { "src": "/tahir", "dest": "/tahir.js" },
-    { "src": "/tahirpass", "dest": "/tahirpass.js" },
-    { "src": "/hanifpass", "dest": "/hanifpass.js" },
-    { "src": "/ayan", "dest": "/ayan.js" },
-    { "src": "/ayanpass", "dest": "/ayanpass.js" },
-    { "src": "/asifpass", "dest": "/asifpass.js" }
+    { "src": "/Hamza", "dest": "/Hamza.js" },
+        { "src": "/Hamzapass", "dest": "/Hamzapass.js" },
+    { "src": "/Shahzeb", "dest": "/Shahzeb.js" },
+{ "src": "/Shahzebpass", "dest": "/Shahzebpass.js" },
+    { "src": "/GMurtaza", "dest": "/GMurtaza.js" },
+    { "src": "/GMurtazapass", "dest": "/GMurtazapass.js" },
+    { "src": "/Waris", "dest": "/Waris.js" },
+    { "src": "/Warispass", "dest": "/Warispass.js" },
+    { "src": "/Aftab", "dest": "/Aftab.js" },
+    { "src": "/Aftabpass", "dest": "/Aftabpass.js" }
   ]
 }
